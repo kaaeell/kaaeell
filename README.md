@@ -10,3 +10,5 @@ Right now, I’m mainly working with Python and building practical beginner-to-i
 You’ll find a few pinned projects here — they’re the ones I’ve learned the most from so far.
 
 Still learning, still building, one project at a time.
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kaaeell&theme=dark&hide_border=true)](https://git.io/streak-stats)
