@@ -7,6 +7,6 @@ Most of the repositories here are part of my learning journey. I focus on writin
 
 Right now, I’m mainly working with Python and building practical beginner-to-intermediate projects. I care more about consistency and long-term improvement than rushing or showing off.
 
-You’ll find a few pinned projects here — they’re the ones I’ve learned the most from so far.
+You’ll find a few pinned projects here, they’re the ones I’ve learned the most from so far.
 
 Still learning, still building, one project at a time :)
