@@ -1,5 +1,5 @@
 Hey there!  
-I’m Yaser, but I go by Kael :) .
+I’m Yaser, but I go by Kael :) 
 
 I’m a Computer Science student who enjoys building things with code and learning how software actually works by doing it. If an idea comes to mind, I usually try to turn it into a small project and improve it step by step.
 
