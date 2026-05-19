@@ -9,4 +9,4 @@ Right now, I’m mainly working with Python and building practical beginner-to-i
 
 You’ll find a few pinned projects here, they’re the ones I’ve learned the most from so far.
 
-Still learning, still building, one project at a time :)
+Still learning, still building, one project at a time.
